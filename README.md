@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScorchWellMP
+- 👋 Hi, I’m @ScorchWellMP (Mathew Prangle)
 - 👀 I’m interested in European History and learning more about CyberSec
 - 🌱 I’m currently learning Web Devolopment
 - 📫 You are able to reach me with the email "MathewPrangle@gmail.com"
